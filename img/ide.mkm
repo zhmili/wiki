@@ -1,0 +1,16 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/Administrator/Desktop/ide.jpg">
+  <Marks>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="230" y="21" textMaxWidth="331" offsetX="45" offsetY="17" text="1、先插入主控，再开启本软件，软件自动匹配主板并显示"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="147" y="97" textMaxWidth="304" offsetX="25" offsetY="10" text="2、用户模块区，模块可拖入 也可 点击放入"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="143" y="675" textMaxWidth="223" offsetX="25" offsetY="10" text="3、用户模块区，点击对应模块，可通过&#xD;鼠标右键 进行删除操作"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="457" y="106" textMaxWidth="229" offsetX="25" offsetY="10" text="4、主程序头，通鼠标右键可添加注释,&#xD;双击可建立子程序之用&#xD;"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="479" y="198" textMaxWidth="184" offsetX="25" offsetY="10" text="5、各类模块可通过 鼠标右键&#xD;添加注释"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="473" y="277" textMaxWidth="137" offsetX="74" offsetY="51" text="6、直接点击对应空框可自动选择变量参量等&#xD;也可直接拖入，或者放入指定模块"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="548" y="311" textMaxWidth="169" offsetX="25" offsetY="10" text="7、左上角 + - 可以折叠模块"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="682" y="51" textMaxWidth="100" offsetX="25" offsetY="10" text="8、代码可显示&#xD;可隐藏"/>
+    <TextMark defaultDirection="9" direction="5" color="16711680" x="816" y="262" textMaxWidth="100" offsetX="25" offsetY="10" text="9、支持零系列自主识别功能"/>
+    <TextMark defaultDirection="9" direction="5" color="16711680" x="816" y="428" textMaxWidth="149" offsetX="25" offsetY="10" text="10、一键下载功能"/>
+    <TextMark defaultDirection="9" direction="5" color="16711680" x="812" y="490" textMaxWidth="100" offsetX="25" offsetY="10" text="11、可将现有代码切换至代码编辑环境直接编程"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="513" y="642" textMaxWidth="259" offsetX="25" offsetY="10" text="CHGC_ROB_IDE : 入门要点提示"/>
+  </Marks>
+</MKM>

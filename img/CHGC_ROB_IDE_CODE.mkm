@@ -1,0 +1,10 @@
+<MKM version="2.0" imageFileUrl="file:///G:/Web/wiki/img/CHGC_ROB_IED_CODE.jpg">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="430" y="24" textMaxWidth="225" offsetX="25" offsetY="10" text="1、壹系列一键下载"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="488" y="46" textMaxWidth="175" offsetX="25" offsetY="10" text="2、零系列一键下载"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="405" y="145" textMaxWidth="100" offsetX="25" offsetY="10" text="5、编程区"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="118" y="103" textMaxWidth="100" offsetX="25" offsetY="10" text="3、壹系列接口"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="119" y="531" textMaxWidth="100" offsetX="25" offsetY="10" text="4、零系列接口"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="465" y="454" textMaxWidth="146" offsetX="25" offsetY="10" text="CHGC_ROB_CODE_IDE"/>
+  </Marks>
+</MKM>
